@@ -3,9 +3,7 @@ Stepik course, 'Automation testing with Selenium and Python', final task
 
 # How to run
 ```shell
-pytest -v 
-  --tb=line 
-  test_main_page.py
+pytest -v --tb=line --language=en -m need_review
 ```
 
 # Run ???
